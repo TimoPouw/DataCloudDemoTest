@@ -1,0 +1,22 @@
+{
+  "accounts": [
+    {
+      "name": "Tech Solutions Inc.",
+      "source": "Web",
+      "email": "info@techsolutions.com",
+      "location": {
+        "city": "Amsterdam",
+        "country": "Netherlands"
+      }
+    },
+    {
+      "name": "Global Ventures",
+      "source": "Referral",
+      "email": "contact@globalventures.com",
+      "location": {
+        "city": "Rotterdam",
+        "country": "Netherlands"
+      }
+    }
+  ]
+}
